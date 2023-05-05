@@ -1,0 +1,17 @@
+body {
+  background-color: #333;
+	margin: 0;
+	padding: 0;
+	font-family: Arial, sans-serif;
+}
+footer {
+    background-color: #333;
+    color: white;
+	     bottom: 0;
+       position:;
+       width: 100%;
+       display: flex;
+      justify-content: center;
+  align-items: center;
+  
+}
